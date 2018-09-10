@@ -1,6 +1,6 @@
 Github Setup
 
-1
+12
 Download and install Git for Linux :
 sudo apt-get install git
 
